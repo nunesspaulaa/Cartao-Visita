@@ -1,0 +1,62 @@
+body{
+	/*background-image: url("../img/Paula3.png");*/
+	width: 400px;
+	height: 200px;
+	background-color: #fcf8f5;
+	margin: 0;
+
+}
+
+#titulo{
+	color: lightpink;
+	margin: 0 auto;
+	text-align: center;
+	background-color: white;
+	border-radius: 50px;
+	width: 200px;
+	padding: 5px;
+	font-family: Carattere;
+	}
+
+#card{
+	width: 100vh;
+	text-align: center;
+	margin: 0 auto;
+	border-radius: 50px;
+	
+}
+
+#foto{
+width: 110%;
+}
+
+#Youtube{
+	list-style-image: url("../img/Youtube.png") ;
+}
+
+#ig{
+	list-style-image: url("../img/Insta.png");
+}
+
+#tt{
+	list-style-image: url("../img/Twitter.png") ;
+}
+
+.link{
+	text-decoration: none;
+	color: white;
+	Background: lightpink;
+	padding: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-radius: 10px;
+	/*font-family: Carattere;*/
+	font-size: 20px;
+}
+
+.link:hover{
+	background: white;
+	color: lightpink;
+}
+
+
